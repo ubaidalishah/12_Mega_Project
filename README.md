@@ -54,7 +54,4 @@ We welcome contributions! 🛠️ If you have ideas or improvements, feel free t
 
 ---
 
-## 📜 **License**
-
-This project is licensed under the MIT License. 🖋️
 
